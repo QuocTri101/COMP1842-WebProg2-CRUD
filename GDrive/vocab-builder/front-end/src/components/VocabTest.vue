@@ -53,7 +53,7 @@ export default {
   },
   data() {
     return {
-      randWords: [...this.words.sort(() => 0.5 - Math.random())],
+      randWords: [...this.words].sort(() => 0.5 - Math.random()),
       incorrectGuesses: [],
       result: "",
       resultClass: "",

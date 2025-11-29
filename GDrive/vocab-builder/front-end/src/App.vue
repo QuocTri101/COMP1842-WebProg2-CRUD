@@ -38,7 +38,7 @@ export default {
 
 <style>
 #app > div.navbar {
-  margin-botttom: 1.5em;
+  margin-bottom: 1.5em;
 }
 .myFlash {
   width: 250px;
@@ -54,7 +54,7 @@ div.label {
   width: 120px;
 }
 div.input {
-  margin-botton: 10px;
+  margin-bottom: 10px;
 }
 button.ui.button {
   margin-top: 15px;
